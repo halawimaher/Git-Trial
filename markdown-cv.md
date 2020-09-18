@@ -1,7 +1,10 @@
 # Maher Halawi
-##### Beirut, Lebanon · halawimaher@gmail.com · 009613034937 ·
+![Maher](MaherCV.jpeg)
+##### Beirut, Lebanon | halawimaher@gmail.com | 009613034937 |
 [My LinkedIn](www.linkedin.com/in/maher-halawi-1a36105a/)
-
+### Me
+Bright and accomplished account manager with five years's experience. Strongly focused and
+results-oriented with the ability to complete tasks accurately in a fast-paced environment.
 # Professional Experience
 #### ApliTv Metn, Lebanon
 ##### Content Management/Data Scientist December 2018 - February 2020
